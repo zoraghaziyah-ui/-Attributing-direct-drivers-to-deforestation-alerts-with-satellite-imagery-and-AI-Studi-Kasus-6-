@@ -1,0 +1,3 @@
+# Studi Kasus: Klasifikasi Driver Deforestasi Berbasis AI & Citra Satelit (CNN Simulation)
+Dalam materi dijelaskan bahwa model Deep Learning (CNN) digunakan untuk mengklasifikasikan pemicu langsung (direct drivers) dari gangguan hutan seperti pertanian skala kecil/besar, penambangan (mining), pembalakan liar (selective logging), dan kebakaran hutan (wildfire) berdasarkan tumpukan citra multi-band satelit Sentinel.
+Studi kasus ini mensimulasikan pemodelan klasifikasi driver deforestasi menggunakan Python (scikit-learn / RandomForest sebagai representasi benchmark pembelajaran mesin dari materi yang dibahas).
